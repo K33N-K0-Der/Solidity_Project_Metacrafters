@@ -6,9 +6,9 @@ The MyToken contract is designed to demonstrate basic token operations on the Et
 
 1. Public variables to store details about the token:
 
--> Token Name
--> Token Abbreviation
--> Total Supply
+-> Token Name.
+-> Token Abbreviation.
+-> Total Supply.
 2. A mapping to keep track of balances associated with each address.
 
 3. A mint function to increase the total supply and the balance of a specified address.
