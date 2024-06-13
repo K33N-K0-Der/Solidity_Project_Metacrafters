@@ -61,7 +61,7 @@ contract MyToken {
         balances[_address] -= _value;
     }
 }
-
+```
 ## Author
 
 Abhishek Singh
