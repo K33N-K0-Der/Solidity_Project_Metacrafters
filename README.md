@@ -6,11 +6,11 @@ The MyToken contract is designed to demonstrate basic token operations on the Et
 
 1. Public variables to store details about the token:
 
--> Token Name
+ -> Token Name
 
--> Token Abbreviation
+ -> Token Abbreviation
 
--> Total Supply
+ -> Total Supply
 
 2. A mapping to keep track of balances associated with each address.
 
